@@ -1,0 +1,35 @@
+﻿'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Users\Christophe\source\repos\ConsoleApplication2\Release\ConsoleApplication2.exe'. Les symboles ont été chargés.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ntdll.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\kernel32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\KernelBase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ole32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\combase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\ucrtbase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\rpcrt4.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\sspicli.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\cryptbase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\sechost.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\gdi32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\gdi32full.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcp_win.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\user32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\win32u.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\setupapi.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msvcrt.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\cfgmgr32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\vcruntime140.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\BluetoothApis.dll'. Les symboles ont été chargés.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\oleaut32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\devobj.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\imm32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\wintrust.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\msasn1.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\crypt32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\SysWOW64\advapi32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+Le thread 0x2cb8 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x1cec s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x3414 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x2848 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x2838 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le programme '[0x3588] ConsoleApplication2.exe' s'est arrêté avec le code -1073741510 (0xc000013a).
