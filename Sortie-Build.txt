@@ -1,0 +1,1 @@
+﻿1>------ Début de la génération : Projet : ConsoleApplication2, Configuration : Release x64 ------

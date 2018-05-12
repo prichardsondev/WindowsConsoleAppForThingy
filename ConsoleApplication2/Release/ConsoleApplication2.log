@@ -1,8 +1,8 @@
 ﻿  ConsoleApplication2.cpp
-c:\users\christophe\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(751): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\christophe\source\repos\consoleapplication2\consoleapplication2\consoleapplication2.cpp(552): warning C4102: 'https' : étiquette non référencée
   Génération de code en cours
-  0 of 14 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+  8 of 14 functions (57.1%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+    2 functions had inline decision re-evaluated but remain unchanged
   Fin de la génération du code
   ConsoleApplication2.vcxproj -> C:\Users\Christophe\source\repos\ConsoleApplication2\Release\ConsoleApplication2.exe
