@@ -1,0 +1,87 @@
+﻿'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Users\Christophe\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe'. Les symboles ont été chargés.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\ntdll.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\kernel32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\KernelBase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\ole32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\combase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbase.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\rpcrt4.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\bcryptprimitives.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\gdi32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\gdi32full.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\msvcp_win.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\user32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\win32u.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\sechost.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\setupapi.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\msvcrt.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\cfgmgr32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\BluetoothApis.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\vcruntime140d.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\oleaut32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbased.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\ucrtbased.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Déchargé 'C:\Windows\System32\ucrtbased.dll'
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\devobj.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\imm32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\wintrust.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\msasn1.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\crypt32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+'ConsoleApplication2.exe' (Win32) : Chargé 'C:\Windows\System32\advapi32.dll'. Impossible de trouver ou d'ouvrir le fichier PDB.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(1) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(2) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(3) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(4) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(5) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(6) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(7) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(8) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(9) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(10) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(11) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(12) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(13) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(14) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(15) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(16) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(17) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(18) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(19) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(20) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(21) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(22) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(23) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(24) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(25) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(26) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(27) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(28) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(29) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(30) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(31) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(32) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(33) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(34) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(35) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(36) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(37) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(38) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(39) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(40) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(41) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(42) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(43) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(44) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(45) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(46) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(47) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(984)\BluetoothApis.dll!00007FF9260B6BCC: (caller: 00007FF9260B1951) ReturnHr(48) tid(18c0) 80070057 Paramètre incorrect.
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(49) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(164)\BluetoothApis.dll!00007FF9260B5323: (caller: 00007FF9260B1772) ReturnHr(50) tid(18c0) 80070006 Descripteur non valide
+onecore\drivers\bluetooth\legacy\win32leadapter\client\lib\gattlegacyapiclient.cpp(308)\BluetoothApis.dll!00007FF9260B45EB: (caller: 00007FF9260B1543) ReturnHr(51) tid(18c0) 80070006 Descripteur non valide
+Le thread 0xb1c s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x3b18 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x18c0 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x3e10 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le thread 0x32a8 s'est arrêté avec le code -1073741510 (0xc000013a).
+Le programme '[0x3124] ConsoleApplication2.exe' s'est arrêté avec le code -1073741510 (0xc000013a).
