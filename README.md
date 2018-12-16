@@ -1,3 +1,10 @@
+Added functions to read an write characteristics
+Added functions to manage button events
+refactor code to create function 
+optimize code and
+
+detect events on press and released button who activate leds
+
 # WindowsConsoleAppForThingy
 
 After pairing you thingy, you can start this tool and see the motion quaternion displaying.
