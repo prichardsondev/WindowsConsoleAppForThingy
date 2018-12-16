@@ -8,6 +8,12 @@ optimize code and
 
 detect events on press and released button who activate leds
 
+commong soon :
+
+audio funtcion (frequency function and sample player.
+
+Add pcm and adpcm funtion before migration to the unity driver
+
 # WindowsConsoleAppForThingy
 
 After pairing you thingy, you can start this tool and see the motion quaternion displaying.
