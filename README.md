@@ -3,8 +3,8 @@
 After pairing you thingy, you can start this tool and see the motion quaternion displaying.
 
 i will display the information from the motion sensor from the thingy.
-i wan reconnect automatically after disconnection.
-it requires to pair the thingy under windos.
+reconnect automatically after disconnection.
+it requires to pair the thingy under windows.
 
 this tool serves to test the thingy function before adding the to the unity plugin.
 
