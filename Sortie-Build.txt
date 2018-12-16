@@ -1,1 +1,5 @@
-﻿1>------ Début de la génération : Projet : ConsoleApplication2, Configuration : Release x64 ------
+﻿1>------ Début de la régénération globale : Projet : ConsoleApplication2, Configuration : Debug x64 ------
+1>stdafx.cpp
+1>ConsoleApplication2.cpp
+1>ConsoleApplication2.vcxproj -> C:\Users\Christophe\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
+========== Régénération globale : 1 a réussi, 0 a échoué, 0 a été ignoré ==========
